@@ -1,0 +1,14 @@
+.main-section {
+    margin-bottom: 90px;
+}
+.active, .visited:hover {
+    background-color: #666;
+    color: white;
+ }
+ .navbar-nav a {
+    text-decoration: none;
+    font-weight: 700;
+ }
+ .webName {
+     font-size: 30px;
+ }

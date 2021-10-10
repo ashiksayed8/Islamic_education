@@ -1,0 +1,12 @@
+.person-container {
+    display: grid;
+    grid-template-columns: repeat(1fr);
+    margin-bottom: 60px;
+}
+.scholar-container {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   box-shadow:  0.05rem 0.1rem 0.3rem -0.03rem  inset;
+   border-radius: 20px;
+   margin: 20px;  
+}

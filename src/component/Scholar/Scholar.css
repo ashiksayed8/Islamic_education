@@ -1,0 +1,23 @@
+.scholar {
+    background-color: aquamarine;
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+    box-shadow:  0.05rem 0.1rem 0.3rem -0.03rem  inset;
+    border-radius: 40px;
+}
+.scholar:hover {
+    transform: scale3d(1.1, 1.1, 1.1);
+    transition-duration: 0.5s
+}
+.scholar img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 50%;
+}
+.icon {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
